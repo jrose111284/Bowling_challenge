@@ -2,10 +2,42 @@
 Bowling Challenge
 =================
 
-instructions:
+### Instructions
 
-i have managed to calculate scores for total, spare, strike, and gutter game.
-i have not managed to work out how to add extra 2 bonus rounds on the 10th round if you rolled 10 strikes. so cant calculate a perfect game. i also ran out of time to work on the interface, being such a busy week. but it is somthing i will complete when i get the time. 
+To use this app there is no UI
+
+I have just used Jasmine to make sure all my jacascript code passes there tests
+
+![jasmine](images/bowl.png)
+
+
+
+To use Test my code, open terminal
+
+```
+$ git clone https://github.com/jrose111284/bowling-challenge.git
+
+```
+Then type
+
+```
+cd bowling-challenge
+```
+
+then in therminal open
+
+```
+$ open SpecRunner.html
+```
+
+That will open your browser and you will see all test pass
+
+### What i did not complete
+
+I have not managed to work out how to add extra 2 bonus rounds on the 10th round if you rolled 10 strikes. So can't calculate a perfect game. I also ran out of time to work on the interface,
+If i had more then the wekend to complete this maybe i could have added a interface
+
+-------------------------------------------------------------
 
     Test time: Friday, the entire day and the entire of lab week if you need it.
     Feel free to use Google, your notes, and your books.
